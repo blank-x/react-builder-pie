@@ -1,0 +1,19 @@
+{
+  "name": "react-builder-pie",
+  "version": "1.0.0",
+  "description": "命令行打包 工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blank-x/react-builder-pie.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blank-x/react-builder-pie/issues"
+  },
+  "homepage": "https://github.com/blank-x/react-builder-pie#readme"
+}
